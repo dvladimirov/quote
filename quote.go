@@ -26,5 +26,6 @@ func Go() string {
 // Opt returns an optimization truth.
 func Opt() string {
 	// Wisdom from ken.
+	return quote.HelloV2()
 	return quote.OptV3()
 }
